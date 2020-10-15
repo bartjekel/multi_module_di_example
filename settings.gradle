@@ -1,0 +1,4 @@
+include ':calculation'
+include ':screen'
+include ':app'
+rootProject.name = "dagger multi-module"
